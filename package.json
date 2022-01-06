@@ -1,0 +1,22 @@
+{
+  "name": "pet-adoption",
+  "version": "1.0.0",
+  "description": "Project created by Camilo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camiloborrero92/pet-adoption.git"
+  },
+  "author": "Camilo Borrero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camiloborrero92/pet-adoption/issues"
+  },
+  "homepage": "https://github.com/camiloborrero92/pet-adoption#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
