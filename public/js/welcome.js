@@ -1,6 +1,6 @@
 var app = new Vue({
     el: '#app',
     data: {
-      message: 'This is a welcome page with Vue'
+      message: 'This is a welcome page with Vue',
     }
-  })
+  });
